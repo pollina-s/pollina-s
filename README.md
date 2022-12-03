@@ -1,4 +1,4 @@
-# 🌟 Hi there! I'm Polina 🌟
+## 🌟 Hi there! I'm Polina 🌟
 
 ### 💻 **Technologies I use:**
 * Languages: **Python 3**
