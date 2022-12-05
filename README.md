@@ -9,5 +9,5 @@
 ### 🌱 **About me:**
 * 🚀 Python Backend Developer (**Django, FastAPI**)
 * 🌈 I’m ~~currently~~ **always** learning new stuff
-* 💗 I also have an account on Codewars [polina-s](https://www.codewars.com/users/polina-s)
+* 💗 I also have an account on Codewars - [polina-s](https://www.codewars.com/users/polina-s)
 * 📮 Email me at [polinna.s@mail.ru]()
