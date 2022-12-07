@@ -1,8 +1,8 @@
 ## 🌟 Hi there! I'm Polina 🌟
 
 ### 📌 **Technologies I use:**
-* Languages: **Python 3**
-* Frameworks: **Django 4**, **Django REST Framework, Fast API**
+* Languages: **Python**
+* Frameworks: **Django**, **Django REST Framework, Fast API**
 * Data Bases and ORM: **SQLite3, Django ORM, PostgreSQL, MongoDB**
 * Others: **Git, Docker**
 
