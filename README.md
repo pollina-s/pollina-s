@@ -4,7 +4,6 @@
 * Languages: **Python**
 * Frameworks: **Django**, **Django REST Framework, FastAPI**
 * Data Bases and ORM: **SQLite, Django ORM, MySQL, NoSQL** (experience with **MongoDB**)
-* Others: **Git, Docker**
 
 ### 🌱 **About me:**
 * Python Backend Developer (**Django, FastAPI**)
