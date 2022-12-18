@@ -2,7 +2,7 @@
 
 ### 📌 **Technologies I use:**
 * Languages: **Python**
-* Frameworks: **Django**, **Django REST Framework, FastAPI**
+* Frameworks: **Django**, **Django REST Framework**
 * Data Bases and ORM: **SQLite, Django ORM, MySQL, NoSQL** (experience with **MongoDB**)
 
 ### 🌱 **About me:**
